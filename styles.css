@@ -17,6 +17,7 @@ body {
 
 #title {
     text-shadow: 0px 0px 4px black;
+    // shadow can be changed
 }
 
 .btn {
@@ -30,5 +31,7 @@ body {
 
 .underline {
     border-bottom: 4px solid white;
+    // underline tab
+    // 2px solid white;
 }
    
